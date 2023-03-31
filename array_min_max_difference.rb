@@ -9,3 +9,6 @@
 # NOTE: for this exercise use the provided array (don't ask the user for a value, in this task).
 
 array = [12, 23, 41, 73, 19, 6]
+ puts array.min
+ puts array.max
+ puts array.max - array.min
